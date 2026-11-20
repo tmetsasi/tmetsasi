@@ -1,3 +1,8 @@
+<h1 align="center">Tomas Metsäsimola</h1>
+<p align="center">Solution architect. My core work is web application development, AI strategy, and building AI agents.</p>
+<p align="center">MSc student in Computer Science at Aalto University, Finland.</p>
+<p align="center"><a href="mailto:tomas.metsasimola@gmail.com">tomas.metsasimola@gmail.com</a></p>
+
 <table>
   <thead>
     <tr>
@@ -31,9 +36,15 @@
         <img alt="Vector databases" align="absmiddle" width="32" height="32" src="https://api.iconify.design/lucide/database.svg?color=%232563EB" />&nbsp;&nbsp;Vector databases<br>
         <img alt="AWS Lightsail" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" />&nbsp;&nbsp;AWS Lightsail<br>
         <img alt="GCP" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;GCP<br>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/vercel.svg?color=%23ffffff" /><img alt="Vercel" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/vercel.svg?color=%23000000" /></picture>&nbsp;&nbsp;Vercel<br>
+        <img alt="Netlify" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/netlify.svg?color=%2300C7B7" />&nbsp;&nbsp;Netlify<br>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/render.svg?color=%23ffffff" /><img alt="Render" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/render.svg?color=%23000000" /></picture>&nbsp;&nbsp;Render<br>
+        <img alt="Linux" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/linux/linux-original.svg" />&nbsp;&nbsp;Linux<br>
         <img alt="Docker" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/docker/docker-original.svg" />&nbsp;&nbsp;Docker<br>
         <img alt="Kubernetes" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/kubernetes/kubernetes-plain.svg" />&nbsp;&nbsp;Kubernetes<br>
         <img alt="Node.js" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;Node.js<br>
+        <img alt="REST" align="absmiddle" width="32" height="32" src="https://api.iconify.design/tabler/api.svg?color=%232563EB" />&nbsp;&nbsp;REST<br>
+        <img alt="Git" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/git/git-original.svg" />&nbsp;&nbsp;Git<br>
         <img alt="CI/CD" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/githubactions/githubactions-original.svg" />&nbsp;&nbsp;CI/CD<br>
         <img alt="Jest" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/jest/jest-plain.svg" />&nbsp;&nbsp;Jest<br>
         <img alt="Sentry" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/sentry/sentry-original.svg" />&nbsp;&nbsp;Sentry<br>
@@ -46,6 +57,14 @@
         <img alt="Claude Code" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/claudecode.svg?color=%23D97757" />&nbsp;&nbsp;Claude Code<br>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/cursor.svg?color=%23ffffff" /><img alt="Cursor" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/cursor.svg?color=%23000000" /></picture>&nbsp;&nbsp;Cursor<br>
         <img alt="AI agents" align="absmiddle" width="32" height="32" src="https://api.iconify.design/lucide/bot.svg?color=%237C3AED" />&nbsp;&nbsp;AI agents<br>
+        <img alt="NumPy" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;NumPy<br>
+        <img alt="SciPy" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/scipy.svg?color=%238CAAE6" />&nbsp;&nbsp;SciPy<br>
+        <img alt="pandas" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;pandas<br>
+        <img alt="Matplotlib" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/matplotlib/matplotlib-original.svg" />&nbsp;&nbsp;Matplotlib<br>
+        <img alt="scikit-learn" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;scikit-learn<br>
+        <img alt="PyTorch" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/pytorch/pytorch-original.svg" />&nbsp;&nbsp;PyTorch<br>
+        <img alt="OpenCV" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/opencv/opencv-original.svg" />&nbsp;&nbsp;OpenCV<br>
+        <img alt="Jupyter" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;Jupyter<br>
         <img alt="Linear algebra" align="absmiddle" width="32" height="32" src="https://api.iconify.design/tabler/matrix.svg?color=%237C3AED" />&nbsp;&nbsp;Linear algebra<br>
         <img alt="Fourier analysis" align="absmiddle" width="32" height="32" src="https://api.iconify.design/tabler/wave-sine.svg?color=%237C3AED" />&nbsp;&nbsp;Fourier analysis<br>
         <img alt="Calculus" align="absmiddle" width="32" height="32" src="https://api.iconify.design/tabler/math-integral.svg?color=%237C3AED" />&nbsp;&nbsp;Calculus<br>
