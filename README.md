@@ -1,4 +1,3 @@
-<h1 align="center">Tomas Metsäsimola</h1>
 <p align="center">Solution architect. My core work is web application development, AI strategy, and building AI agents.</p>
 <p align="center">MSc student in Computer Science at Aalto University, Finland.</p>
 <p align="center"><a href="mailto:tomas.metsasimola@gmail.com">tomas.metsasimola@gmail.com</a></p>
