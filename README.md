@@ -13,16 +13,21 @@
   <tbody>
     <tr>
       <td valign="top" width="33%">
-        <img alt="JavaScript" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/javascript/javascript-original.svg" />&nbsp;<img alt="TypeScript" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;JavaScript / TypeScript<br>
+        <img alt="JavaScript" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;JavaScript<br>
+        <img alt="TypeScript" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;TypeScript<br>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23ffffff" /><img alt="Next.js" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000" /></picture>&nbsp;&nbsp;Next.js<br>
         <img alt="React" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/react/react-original.svg" />&nbsp;&nbsp;React<br>
         <img alt="React Native" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/reactnative/reactnative-original.svg" />&nbsp;&nbsp;React Native<br>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/expo.svg?color=%23ffffff" /><img alt="Expo" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/expo.svg?color=%23000000" /></picture>&nbsp;&nbsp;Expo<br>
+        <img alt="Android Studio" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/androidstudio/androidstudio-original.svg" />&nbsp;&nbsp;Android Studio<br>
+        <img alt="Xcode" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/xcode/xcode-original.svg" />&nbsp;&nbsp;Xcode<br>
         <img alt="Tailwind CSS" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;Tailwind CSS<br>
         <img alt="Figma" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/figma/figma-original.svg" />&nbsp;&nbsp;Figma<br>
         <img alt="Canva" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/canva/canva-original.svg" />&nbsp;&nbsp;Canva<br>
         <img alt="Scalable web apps" align="absmiddle" width="32" height="32" src="https://api.iconify.design/lucide/scaling.svg?color=%230284C7" />&nbsp;&nbsp;Scalable web apps<br>
         <img alt="HTML" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/html5/html5-original.svg" />&nbsp;&nbsp;HTML<br>
-        <img alt="CSS" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/css3/css3-original.svg" />&nbsp;&nbsp;CSS
+        <img alt="CSS" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/css3/css3-original.svg" />&nbsp;&nbsp;CSS<br>
+        <img alt="Chrome DevTools" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/chrome/chrome-original.svg" />&nbsp;&nbsp;Chrome DevTools
       </td>
       <td valign="top" width="33%">
         <img alt="Python" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/python/python-original.svg" />&nbsp;&nbsp;Python<br>
@@ -48,8 +53,7 @@
         <img alt="Jest" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/jest/jest-plain.svg" />&nbsp;&nbsp;Jest<br>
         <img alt="Sentry" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/sentry/sentry-original.svg" />&nbsp;&nbsp;Sentry<br>
         <img alt="Playwright" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/playwright/playwright-original.svg" />&nbsp;&nbsp;Playwright<br>
-        <img alt="Selenium" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;Selenium<br>
-        <img alt="Performance measurement" align="absmiddle" width="32" height="32" src="https://api.iconify.design/lucide/gauge.svg?color=%23EA580C" />&nbsp;&nbsp;Performance measurement
+        <img alt="Selenium" align="absmiddle" width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/selenium/selenium-original.svg" />&nbsp;&nbsp;Selenium
       </td>
       <td valign="top" width="33%">
         <img alt="Codex" align="absmiddle" width="32" height="32" src="https://api.iconify.design/simple-icons/openai.svg?color=%23412991" />&nbsp;&nbsp;Codex<br>
