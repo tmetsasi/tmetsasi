@@ -7,7 +7,7 @@
     <tr>
       <th align="center" width="33%"><img alt="Frontend" src="https://img.shields.io/badge/Frontend-0369A1?style=for-the-badge" /></th>
       <th align="center" width="33%"><img alt="Backend" src="https://img.shields.io/badge/Backend-047857?style=for-the-badge" /></th>
-      <th align="center" width="33%"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge" /></th>
+      <th align="center" width="33%"><img alt="AI" src="https://img.shields.io/badge/AI-6D28D9?style=for-the-badge" /></th>
     </tr>
   </thead>
   <tbody>
